@@ -9,6 +9,6 @@ public class HelloWorld {
         System.out.println("   \\_________/   ");
         System.out.println("   /         \\      ");
         System.out.println("  /           \\    ");
-
+        System.out.println("hallå");
     }
         }
